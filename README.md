@@ -30,8 +30,8 @@ Predicts whether a protein is located in the cell membrane or nucleus using mach
 
 **Notebook**: `Antimicrobial_Peptide_Classification.ipynb`
 **Dataset**: `antimicrobial_peptide.csv`
-
-Students implement a complete ML pipeline to predict antimicrobial peptides.
+`
+Please implement a complete ML pipeline to predict antimicrobial peptides in the following colab notebook.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mkoohim/Trial_Lecture/blob/main/Antimicrobial_Peptide_Classification.ipynb)
 
