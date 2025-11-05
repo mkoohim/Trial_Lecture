@@ -11,11 +11,8 @@ This repository contains a protein classification pipeline for predicting subcel
 
 ## 🚀 Quick Start
 
-### Option 1: Open from GitHub
+### Open from Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mkoohim/Trial_Lecture/blob/main/Protein_Classification_Classical.ipynb)
-
-### Option 2: Open from Google Drive
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LUhW-1h_QqLu2pr4FPE0IuVN5hLuY0Gx?usp=sharing)
 
 ### Steps:
 1. Click one of the Colab badges above
@@ -23,7 +20,7 @@ This repository contains a protein classification pipeline for predicting subcel
 3. Run all cells
 4. Wait 5-10 minutes for results
 
-## 🔬 Methods
+## Methods
 
 This notebook implements three feature extraction approaches:
 
