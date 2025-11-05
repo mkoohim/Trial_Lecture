@@ -11,8 +11,15 @@ This repository contains a protein classification pipeline for predicting subcel
 
 ## 🚀 Quick Start
 
-1. Open the notebook in Google Colab: [Protein_Classification_Classical.ipynb](Protein_Classification_Classical.ipynb)
-2. Upload `protein_dataset.csv` when prompted
+### Option 1: Open from GitHub
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mkoohim/Trial_Lecture/blob/main/Protein_Classification_Classical.ipynb)
+
+### Option 2: Open from Google Drive
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LUhW-1h_QqLu2pr4FPE0IuVN5hLuY0Gx?usp=sharing)
+
+### Steps:
+1. Click one of the Colab badges above
+2. Upload `protein_dataset.csv` when prompted (or use the one from this repo)
 3. Run all cells
 4. Wait 5-10 minutes for results
 
