@@ -4,6 +4,8 @@
 # But include these specific files
 !.gitignore
 !Protein_Classification_Classical.ipynb
+!Antimicrobial_Peptide_Classification.ipynb
 !protein_dataset.csv
+!antimicrobial_peptide.csv
 !README.md
 
