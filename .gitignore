@@ -1,0 +1,9 @@
+# Ignore all files by default
+*
+
+# But include these specific files
+!.gitignore
+!Protein_Classification_Classical.ipynb
+!protein_dataset.csv
+!README.md
+
